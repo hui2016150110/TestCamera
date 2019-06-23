@@ -30,6 +30,12 @@
             android:layout_height="200dp" />
     </LinearLayout>
 
+    <Button
+        android:id="@+id/videoButton"
+        android:text="调用系统的播放器播放视频"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 
 
 </LinearLayout>
